@@ -1,0 +1,8 @@
+.footer{
+    padding: 2rem;
+    background-color: darkgray;
+    color: darkblue;
+    position: relative;
+    top: 1rem;
+    text-align: center;
+}
